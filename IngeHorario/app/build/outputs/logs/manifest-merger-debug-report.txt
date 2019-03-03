@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/da4e6f17430a1b2d8c06e5f55b5f2fd0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/rho/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/cd1f63ef8375b58b794ded673af51d5f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/0674b0eada55a3080742ef8e001b8dd9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/74b2af862eace00da4ad43b2dab25f33/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/e6c469ff63b424c8065c4f22cafece33/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/7ee800c83cb3f776e22a8da73193e523/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/fe6be24d13df1a0b9e3bc65e89b7eef1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/900a4cb052dcdafcf8c3d1bea8813bd9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/2ed558b2f8e739c73387af262d7470b2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/408c32b01b8bbbb16fa1a39dd6b3c177/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/bf94a1da75ef159733fce78abbce07bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/ebb584ac5c65f2e357a5230a6bc146ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/9891c7e4a10a62c57c27126b8c6cf27d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/50192434347c1a030f17a48a18cb30bd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/596c9659bd47594c2ba20abef6026596/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5609c96e2be9326a360d71a866aa0cd2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1aff1469394721356e979f43da17397a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/024925212b627bc806f1ea68dc8f2135/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/849848ba751aff6d3a8a119079ca5f8f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/rho/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/727efc1a52506f1e9fa16f52462a505b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/c6900b988fa3352a71526d78ff9d8ae9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/14f3a84599bdbf2b1916db3097f7c4f7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/87accab561918454811e7f19b5fe982e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/rho/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f37bfe4ea66620e5a7645761ce078b89/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/rho/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0e725ae669d526fdff0b9ea4ea3292ed/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/rho/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5b49d4ab24432b24730a359016f983be/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/rho/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/38ae6b01baf000958faf20253f33d83e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/fc16bc8f68eada3085c446488efb3d48/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml:3:11-48
+		INJECTED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml
+		ADDED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml
+		ADDED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/rho/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/cd1f63ef8375b58b794ded673af51d5f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/rho/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/cd1f63ef8375b58b794ded673af51d5f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1aff1469394721356e979f43da17397a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1aff1469394721356e979f43da17397a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/024925212b627bc806f1ea68dc8f2135/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/024925212b627bc806f1ea68dc8f2135/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1aff1469394721356e979f43da17397a/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml:11:13-44
+activity#com.example.rho.ingehorario.MainActivity
+ADDED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml
+INJECTED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/da4e6f17430a1b2d8c06e5f55b5f2fd0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/da4e6f17430a1b2d8c06e5f55b5f2fd0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/rho/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/cd1f63ef8375b58b794ded673af51d5f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/rho/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/cd1f63ef8375b58b794ded673af51d5f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/0674b0eada55a3080742ef8e001b8dd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/0674b0eada55a3080742ef8e001b8dd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/74b2af862eace00da4ad43b2dab25f33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/74b2af862eace00da4ad43b2dab25f33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/e6c469ff63b424c8065c4f22cafece33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/e6c469ff63b424c8065c4f22cafece33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/7ee800c83cb3f776e22a8da73193e523/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/7ee800c83cb3f776e22a8da73193e523/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/fe6be24d13df1a0b9e3bc65e89b7eef1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/fe6be24d13df1a0b9e3bc65e89b7eef1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/900a4cb052dcdafcf8c3d1bea8813bd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/900a4cb052dcdafcf8c3d1bea8813bd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/2ed558b2f8e739c73387af262d7470b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/2ed558b2f8e739c73387af262d7470b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/408c32b01b8bbbb16fa1a39dd6b3c177/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/408c32b01b8bbbb16fa1a39dd6b3c177/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/bf94a1da75ef159733fce78abbce07bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/bf94a1da75ef159733fce78abbce07bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/ebb584ac5c65f2e357a5230a6bc146ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/ebb584ac5c65f2e357a5230a6bc146ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/9891c7e4a10a62c57c27126b8c6cf27d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/9891c7e4a10a62c57c27126b8c6cf27d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/50192434347c1a030f17a48a18cb30bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/50192434347c1a030f17a48a18cb30bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/596c9659bd47594c2ba20abef6026596/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/596c9659bd47594c2ba20abef6026596/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5609c96e2be9326a360d71a866aa0cd2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5609c96e2be9326a360d71a866aa0cd2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1aff1469394721356e979f43da17397a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1aff1469394721356e979f43da17397a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/024925212b627bc806f1ea68dc8f2135/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/024925212b627bc806f1ea68dc8f2135/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/849848ba751aff6d3a8a119079ca5f8f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/849848ba751aff6d3a8a119079ca5f8f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/rho/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/727efc1a52506f1e9fa16f52462a505b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/rho/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/727efc1a52506f1e9fa16f52462a505b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/c6900b988fa3352a71526d78ff9d8ae9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/c6900b988fa3352a71526d78ff9d8ae9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/14f3a84599bdbf2b1916db3097f7c4f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/14f3a84599bdbf2b1916db3097f7c4f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/87accab561918454811e7f19b5fe982e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/87accab561918454811e7f19b5fe982e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/rho/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f37bfe4ea66620e5a7645761ce078b89/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/rho/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f37bfe4ea66620e5a7645761ce078b89/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/rho/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0e725ae669d526fdff0b9ea4ea3292ed/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/rho/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0e725ae669d526fdff0b9ea4ea3292ed/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/rho/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5b49d4ab24432b24730a359016f983be/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/rho/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5b49d4ab24432b24730a359016f983be/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/rho/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/38ae6b01baf000958faf20253f33d83e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/rho/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/38ae6b01baf000958faf20253f33d83e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/fc16bc8f68eada3085c446488efb3d48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/rho/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/fc16bc8f68eada3085c446488efb3d48/AndroidManifest.xml:20:5-44
+INJECTED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml
+INJECTED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml
+		ADDED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml
+		ADDED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rho/.datafiles/MyProjects/ASP/IngeHorario/app/src/main/AndroidManifest.xml

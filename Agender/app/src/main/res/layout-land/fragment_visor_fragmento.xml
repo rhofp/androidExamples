@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:orientation="horizontal"
+              android:layout_height="match_parent"
+              tools:context=".VisorFragmento" android:baselineAligned="false">
+
+    <fragment
+            android:layout_weight="1"
+            android:name="com.androikrf.rho.agender.ListaFragmento"
+            android:layout_width="0dp"
+            android:layout_height="match_parent" android:id="@+id/list" tools:layout="@layout/fragment_lista_fragmento">
+    </fragment>
+
+    <fragment
+            android:id="@+id/contenido"
+            android:layout_weight="2"
+            android:name="com.androikrf.rho.agender.ContenedorFragmento"
+            android:layout_width="0dp"
+            android:layout_height="match_parent" tools:layout="@layout/fragment_contenedor_fragmento">
+    </fragment>
+
+
+</LinearLayout>

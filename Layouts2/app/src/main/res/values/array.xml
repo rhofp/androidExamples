@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="materias">
+        <item>Informática</item>
+        <item>Ingeniería en computación</item>
+        <item>Ciencias de la computación</item>
+    </array>
+</resources>

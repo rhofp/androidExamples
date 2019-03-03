@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ingehorario</string>
+    <string name="iniciar_sesion">Iniciar sesión</string>
+    <string name="edificiog">EDIFICIOG</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="logo">logoapp</string>
+</resources>

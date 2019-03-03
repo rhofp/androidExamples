@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                             xmlns:app="http://schemas.android.com/apk/res-auto"
+                                             xmlns:tools="http://schemas.android.com/tools"
+                                             android:layout_width="match_parent"
+                                             android:layout_height="match_parent"
+                                             tools:context=".SensorFrag">
+
+
+    <View
+            android:layout_width="0dp"
+            android:background="@color/colorPrimary"
+            android:layout_height="2dp"
+            android:id="@+id/view2" app:layout_constraintBottom_toTopOf="@+id/acelBtn" android:layout_marginTop="8dp"
+            app:layout_constraintVertical_bias="0.632" app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent" android:layout_marginLeft="8dp"
+            android:layout_marginStart="8dp"/>
+    <TextView
+            android:text="Sensores"
+            android:layout_width="157dp"
+            android:layout_height="63dp"
+            android:id="@+id/senTv" android:textSize="36sp"
+            android:layout_marginTop="80dp" app:layout_constraintTop_toTopOf="parent" android:layout_marginStart="8dp"
+            app:layout_constraintStart_toStartOf="parent" android:layout_marginLeft="8dp" android:layout_marginEnd="8dp"
+            app:layout_constraintEnd_toEndOf="parent" android:layout_marginRight="8dp"
+            app:layout_constraintHorizontal_bias="0.5"/>
+    <Button
+            android:text="Acelerometro"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/acelBtn"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintHorizontal_bias="0.455" app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/senTv" android:layout_marginTop="104dp"/>
+    <Button
+            android:text="Proximidad"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/proxBtn"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintHorizontal_bias="0.448"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginTop="8dp" app:layout_constraintTop_toBottomOf="@+id/acelBtn"
+            app:layout_constraintVertical_bias="0.065"/>
+</android.support.constraint.ConstraintLayout>

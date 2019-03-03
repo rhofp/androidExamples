@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Abrir_Imagen"
+        android:title="Abrir Imagen"
+        >
+
+    </item>
+    <item
+        android:id="@+id/Abrir_Imagen_SD"
+        android:title="Abrir Imagen desde SD"
+        >
+
+    </item>
+    <item
+        android:id="@+id/Take_Picture"
+        android:title="Tomar Foto"
+        ></item>
+
+    <item
+        android:id="@+id/Guardar_Imagen"
+        android:title="Guardar Imagen"
+        ></item>
+    <item
+        android:id="@+id/Salir"
+        android:title="Salir"
+        ></item>
+
+</menu>
